@@ -1,7 +1,8 @@
 # Folder-Protector
 
 ## Pra que serve?
-Um projeto com C# e um driver de kernel, ele serve para proteger pastas ou arquivos contra modificações, exclusão, e etc
+Um projeto com C# e um driver de kernel, ele serve para proteger pastas ou arquivos contra modificações, exclusão, e etc.
+Embora o nome esteja como "FolderPassword", ele só coloca senha pra proteger os arquivos contra modificações, mas não os bloqueia completamente.
 
 ## Como instalar?
 1- Primeiro, habilite a assinatura de driver necessária usando o "bcdedit.exe -set testsigning on"
