@@ -13,7 +13,7 @@ Embora o nome esteja como "FolderPassword", ele só coloca senha pra proteger os
 
 https://user-images.githubusercontent.com/51800283/124954406-6681f180-dfec-11eb-9e91-922c7ae22f37.mp4
 
-Atenção! Esse projeto não foi verificado em outras versões, e por isso pode estar instável, eu decidi não continuar com o projeto por um tempo, por isso, estou lançando ele aqui, pra liberar espaço em meu HD :D
+Atenção! Esse projeto não foi verificado em outras versões do Windows, e por isso pode estar instável, eu decidi não continuar com o projeto por um tempo, por isso, estou lançando ele aqui, pra liberar espaço em meu HD :D
 
 
 
