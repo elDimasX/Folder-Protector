@@ -5,8 +5,8 @@ Um projeto com C# e um driver de kernel, ele serve para proteger pastas ou arqui
 Embora o nome esteja como "FolderPassword", ele só coloca senha pra proteger os arquivos contra modificações, mas não os bloqueia completamente.
 
 ## Como instalar?
-1- Primeiro, habilite a assinatura de driver necessária usando o "bcdedit.exe -set testsigning on"
-2- Instale o driver de kernel usando o arquivo .inf
+1- Primeiro, habilite a assinatura de driver necessária usando o "bcdedit.exe -set testsigning on"<br/>
+2- Instale o driver de kernel usando o arquivo .inf<br/>
 3- Basta iniciar a UI
 
 ## Exemplo
